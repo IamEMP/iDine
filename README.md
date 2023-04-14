@@ -5,7 +5,7 @@ This is a practice app I made while learning Swift. The code and tutorials follo
 
 Credits: Paul Hudson Youtube: https://www.youtube.com/@twostraws
 
-Platforms supported: IOS
+Platforms supported: iOS
 
 
 ![image](https://user-images.githubusercontent.com/102773143/231941699-6c5e9676-181e-497a-b8b7-3b8d0fae15a9.png)
